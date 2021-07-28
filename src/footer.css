@@ -1,0 +1,14 @@
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    height:70px;
+    
+  bottom:0;
+
+  }
+
+  p{
+      padding: 10px 16px;
+  }
